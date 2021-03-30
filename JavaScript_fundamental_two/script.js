@@ -529,3 +529,4 @@ const CalAverage = function(arr) {
 console.log(CalAverage([2,3,6]))
 console.log(CalAverage(totals))
 console.log(CalAverage(tips))
+
